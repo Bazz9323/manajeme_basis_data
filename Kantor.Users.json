@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6825657f8dae7c8fa0f7c410"
+  },
+  "nama": "Andi Saputra",
+  "email": "andi@example.com",
+  "umur": 25,
+  "alamat": {
+    "jalan": "Jl. Merdeka No.10",
+    "kota": "Bandung",
+    "kode_pos": "40115"
+  }
+},
+{
+  "_id": {
+    "$oid": "6825657f8dae7c8fa0f7c411"
+  },
+  "nama": "Budi Santoso",
+  "email": "budi@example.com",
+  "umur": 30,
+  "alamat": {
+    "jalan": "Jl. Sudirman No.5",
+    "kota": "Jakarta",
+    "kode_pos": "10220"
+  }
+}]
